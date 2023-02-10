@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to code as a beginner (HTML, CSS, Javascript, React). (2022)
 - 📫 How to reach me : 
       discord:TK0779#8443
-      twitter: tk0779
+      twitter: twitter.com/tk0779
 <!--
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
